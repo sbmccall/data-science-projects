@@ -2,6 +2,7 @@
 🚀 *A collection of personal data science projects showcasing my skills in analytics, machine learning, and visualization.*
 
 ## 📂 Repository Structure
+'''
 data-science-projects/
 ├── project-1/
 │   ├── data/                  # Raw and processed datasets
@@ -14,3 +15,4 @@ data-science-projects/
 │   ├── scripts/
 │   ├── README.md
 ├── README.md                  # Main repo README
+'''
