@@ -4,7 +4,7 @@
 ## 📂 Repository Structure
 ```
 data-science-projects/
-├── project-1/
+├── customer-segmentation/
 │   ├── data/                  # Raw and processed datasets
 │   ├── notebooks/             # Jupyter notebooks
 │   ├── scripts/               # Python scripts
