@@ -9,7 +9,7 @@ data-science-projects/
 │   ├── notebooks/             # Jupyter notebooks
 │   ├── scripts/               # Python scripts
 │   ├── README.md              # Details about this project
-├── project-2/
+├── telco-customer-churn/
 │   ├── data/
 │   ├── notebooks/
 │   ├── scripts/
